@@ -5,7 +5,7 @@
   "releaseDate": "2026-09-25",
   "minimumLicenseVersion": "1",
   "requiredEntitlement": "",
-  "sha256": "e4f152e4ecce10ae1be958c03917da23b310646e4e04cabb58334223dd30fa4a",
-  "signature": "MEQCIH5pg3weFMlYpAVany6p03qIGPEHthOC59ziJzeOpeloAiBo7BvnpSv8orkr\u002BLMIR2f7vryj3NYAlSd/lShE1nVyCA==",
-  "signatureV2": "MEUCICUY00SoLBTEMbNg\u002BDDjP6LEkBNGnfh8GVZ6aQ/j3iVAAiEA8WZKfeD0mu9f/eSuloILsP1SsaQPIxHm2tMYCIZXhiM="
+  "sha256": "87e9a60f4220c26f297b5b53789b46e052b1ef68ad540a9e9b18a4932333880e",
+  "signature": "MEUCIQDC/hFnUwppBVZnAifMu/Pwho9a7iqQX6/FwU9Mbgl1IwIgJehBhqbl7Ux0PerHtng1colnFsFfiyaNXYpRlgow4ho=",
+  "signatureV2": "MEQCIEseaCl0Y/FQLmbEX0aCkOumUSiHGnJwWWbEzkM2r7GjAiATAPrt1Y/D0qYeeJLXM4EW8eMJlDHOMwivtZPgClONcg=="
 }
